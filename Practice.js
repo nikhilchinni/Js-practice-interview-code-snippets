@@ -1085,20 +1085,20 @@ function printPattern(n) {
   
 
 
-  const array1 = [
-    { id: 1, name: "Hema" },
-    { id: 2, name: "Mahesh" },
-    ];
-    const array2 = [
-    { id: 1, age: 25 },
-    { id: 2, age: 30 },
-    ];
+  // const array1 = [
+  //   { id: 1, name: "Hema" },
+  //   { id: 2, name: "Mahesh" },
+  //   ];
+  //   const array2 = [
+  //   { id: 1, age: 25 },
+  //   { id: 2, age: 30 },
+  //   ];
 
-    const newPost = {
-      title: "My New Post",
-      body: "This is the content of the post.",
-      userId: 1,
-      };
+  //   const newPost = {
+  //     title: "My New Post",
+  //     body: "This is the content of the post.",
+  //     userId: 1,
+  //     };
 
 
 fetch("url", {
